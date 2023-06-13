@@ -23,7 +23,7 @@
   z-index:1;
   left:64px;
   top:30px;
-  width:154px; 
+  width:154px;
   height:31px;
 }
 
@@ -40,7 +40,7 @@
   position:absolute;
   bottom: 30px;
   left: 64px;
-  width: 388px;  
+  width: 388px;
   line-height: 25px;
   font-size: 18px;
   font-weight:normal;
@@ -234,7 +234,7 @@ margin-top: 80px;
 
 }
 .section-subtitle_theme_dark{
-  line-height:34px ;
+  line-height:34px;
   font-size: 24px;
   font-weight: normal;
  margin-inline: auto;
@@ -280,7 +280,7 @@ height: 636px;
 .footer__columns{
 margin-top: 60px;
 display:flex;
-width: 90% ;
+width: 90%;
 justify-content: space-between;
 }
 
